@@ -1,0 +1,16 @@
+{
+  "name": "toottime",
+  "version": "0.1.0",
+  "description": "Mastodon bot that toots the time",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Effy Elden <dev@effy.is>",
+  "license": "MIT",
+  "dependencies": {
+    "mastodon": "^1.0.0",
+    "moment-timezone": "^0.5.11",
+    "node-schedule": "^1.2.0"
+  }
+}
