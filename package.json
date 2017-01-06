@@ -4,7 +4,7 @@
   "description": "Mastodon bot that toots the time",
   "main": "bot.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node bot.js"
   },
   "author": "Effy Elden <dev@effy.is>",
   "license": "MIT",
