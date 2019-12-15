@@ -10,7 +10,6 @@
   "license": "MIT",
   "dependencies": {
     "mastodon": "^1.0.0",
-    "moment-timezone": "^0.5.11",
-    "node-schedule": "^1.2.0"
+    "moment-timezone": "^0.5.11"
   }
 }
